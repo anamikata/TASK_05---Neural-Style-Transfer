@@ -1,4 +1,4 @@
-# PRODIGY_ML_05 - Neural Style Transfer
+# TASK_05 - Neural Style Transfer
 
 ## 📌 Task Overview
 
